@@ -9,7 +9,7 @@
 
 ### Description
 
-This project was to create a model of a skateboard with realistic size and weight.
+Creating a deck, trucks, and wheels, with realistic weight and proportions, using onshape functions such as, hole, revolve, and a variety of mates when assembling the final product.
   
 ### Evidence
 
@@ -23,19 +23,19 @@ This project was to create a model of a skateboard with realistic size and weigh
 
 **2.1**
 
-  2.1 included the creation of the deck itself. The holes in the deck were created using the hole feature so that they would fit specific sized bolts correctly. 
+  The hole function allows simple creation of holes fit for specific bolt types. It was used here to create the holes to attach the trucks to the deck.
   
 **2.2**
 
-  In 2.2, the extrude function was used to create multiple parts within the same part studio, by pressing "new" instead of "add" when extruding. 
+  You can create multiple parts within one part studio by pressing "new" when extruding a sketch. This allows to model parts within one part studio and then import them seperately for assembly. 
   
 **2.3**
 
-  The wheels were created using the revolve feature to quickly create the whole wheel with minimal work.
+  The revolve function revolves a sketch around a chosen axis of rotation. This allows to extrude a circular part, such as a wheel, with ease. 
   
 **2.4**
 
-  When putting the parts together, standard content bolts and nuts were used, as well as working with different types of mates within onshape.
+  Fastened mates create a fixed connection between two parts in an assembly. This is most common because it connects parts together neatly like it were glue. Revolute mates connect parts as well, but it allows for rotational movement. This was useful for connecting the wheels to the Truck Hanger while still allowing the wheels to spin freely. 
   
 **2.5**
 
