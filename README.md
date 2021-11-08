@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [Skateboard](#Skateboard (2.1-2.5))
+* [Legos](#Legos (3.1-3.3))
 ---
 
 ## Skateboard (2.1-2.5)
@@ -40,3 +41,23 @@ Creating a deck, trucks, and wheels, with realistic weight and proportions, usin
 **2.5**
 
   In order to make the skateboard look more realistic, I had to bend the board and change the shape of the trucks. This used the split and move face tool which made it easier to   change the angle of the deck without creating new sketches and extrudes. When changing the trucks, I discovered multiple issues with my original design that made it more         difficult to change dimensions without breaking parts of the trucks. In the future confirm that the dimensions and constraints are not over or under constrained that way if     there in a need to change dimensions it can be done easily.
+
+##Legos (3.1-3.3)
+
+### Description
+### Evidence
+### Image
+
+### Reflection
+
+**3.1**
+
+  Adding mate connectors within the part studio itself allows you to edit them using variables like in this assignment and it also makes things easier once in the assembly.
+
+**3.2**
+
+  Part/feature configurations make changing parts much easier within the part studio and when adding parts to an assembly. The feature configuration creates a table for you to     input values for variables and feature settings.  
+
+**3.3**
+
+The work done in the other parts of this assignment made the actual assembly incredibly easy. When importing blocks the feature configurations made before allowed to easily import all types of blocks that I wanted, and in the color that I wanted. Adding the mate connectors in 3.1 allowed the blocks to easily snap together in the assembly.
